@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 9cd0e567732f7bd4e834d755f6e38bcf
+  - enabled: 1
+    path: Assets/Scenes/SeleccionNivel.unity
+    guid: 3b615d60a7f8eca458a3caf2cfdb5a56
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: e39d453d660b5a64d9773b572eccc9f8
+  - enabled: 1
+    path: Assets/Scenes/Instrucciones.unity
+    guid: b0c07ab89f23fb5459e9cbff8932ab1f
+  - enabled: 1
+    path: Assets/Scenes/Derrota.unity
+    guid: 1fcfa5247779f854f8ab3364a1488778
+  - enabled: 1
+    path: Assets/Scenes/Victoria.unity
+    guid: a2e8cd113e80b314f9da5d743ba5687e
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel 1.unity
+    guid: d59122e89f2a45846a5affe823b3f574
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel 2.unity
+    guid: eac6b4362341cd9438b3e605f04f0ad5
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel 3.unity
+    guid: 89bc8d08145d28d4db64d6f0e10f2557
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel 4.unity
+    guid: 763d6ad4b2db0c743b0a275745a5255f
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel 5.unity
+    guid: 9040a95810adc1443bfc3c0ca4960c31
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel 6.unity
+    guid: 6451a4081439e52418a95739e6a21181
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel 7.unity
+    guid: e0b9326d6537a7f4baf845e89ba8ec8c
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel 8.unity
+    guid: 6e7421d60604e6d4c9377faa2842b2ac
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel 9.unity
+    guid: 89bac009892ed39428192b58ab0bad68
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel 10.unity
+    guid: 23abdceeb24471246adfef1aaa227627
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel 11.unity
+    guid: 64787cb487a158644ac6373040cbcfd1
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel 12.unity
+    guid: 2dca00c3328f0e54db547fdf6190ccc7
+  m_configObjects: {}
